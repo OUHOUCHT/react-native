@@ -19,5 +19,5 @@ const styles = StyleSheet.create({
         flex : 0.2,
         backgroundColor: '#F4CE14' ,
     },
-     text : { padding: 40, fontSize: 30, color: 'black' ,textAlign:'center' }
+     text : { padding: 20, fontSize: 30, color: 'black' ,textAlign:'center' }
 })
